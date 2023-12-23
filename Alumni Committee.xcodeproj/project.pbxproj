@@ -19,6 +19,7 @@
 		5F0875422B36B7C40071F3A9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5F0875442B36B7C60071F3A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5F0875472B36B7C60071F3A9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5F08754E2B36BE310071F3A9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		5F0875342B36B7C40071F3A9 = {
 			isa = PBXGroup;
 			children = (
+				5F08754E2B36BE310071F3A9 /* README.md */,
 				5F08753F2B36B7C40071F3A9 /* Alumni Committee */,
 				5F08753E2B36B7C40071F3A9 /* Products */,
 			);
